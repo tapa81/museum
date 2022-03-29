@@ -1,0 +1,30 @@
+.contacts{
+    background-color: black;
+    height:750px ;
+    background-size: cover;
+}
+.contacts h1{
+clear: left;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(218, 228, 201);
+    padding-top: 50px;
+    text-align: center;
+}
+.contacts #ticket{
+    float: left;
+}
+.contacts #ticket h2{
+    margin-left: 350px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(218, 228, 201);
+    padding-top: 50px;
+}
+.contacts #ticket2{
+    float: left;
+}
+.contacts #ticket2 h2{
+    margin-left: 350px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(218, 228, 201);
+    padding-top: 50px;
+}

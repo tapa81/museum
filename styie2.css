@@ -1,0 +1,87 @@
+.order{
+    background-color: black;
+    height: 800px;
+    background-size: cover;
+}
+.order  h1{
+    clear: left;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(218, 228, 201);
+    padding-top: 60px;
+    text-align: center;
+}
+ .block{
+    height: 375px;
+    margin-top: 30px;
+    margin-left: 227px;
+    margin-right: 227px;
+    background-color:darkolivegreen;
+}
+.block #dd{
+    padding-left: 60px;
+    padding-top: 60px;
+}
+ #dd input{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:black;
+    font-size: large;
+    text-align: center;
+    width: 1330px;
+    height: 50px;
+    background-color:rgb(154, 173, 85) ;
+    
+}
+#ddd{
+    padding-top: 20px;
+    padding-left: 60px;
+}
+#ddd input{ 
+    height: 50px;
+    padding-top: 20px;
+    width: 654.5px;
+    margin-right: 16px;
+    background-color:rgb(154, 173, 85) ;
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:rgb(112, 111, 111);
+    text-align: center;
+}
+.footer1{
+    height: 303px;
+    background-color: darkolivegreen; 
+    background-size: cover;
+}
+.footer1 #logo1{
+    padding-top: 110px;
+    margin-left: 168px;
+    margin-right: 200px;
+    float: left;
+}
+.footer1 #network{
+    padding-top: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+    color: rgb(218, 228, 201);
+    float: left;
+    margin-right: 200px;
+}
+.footer1 #network #f8 {
+    padding-right: 9px;
+    padding-left: 9px; 
+}
+#cont{
+    padding-top: 49px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+    color: rgb(218, 228, 201);
+    float: left;
+    margin-right: 200px;
+}
+#adr span{
+    padding-top: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    color: rgb(218, 228, 201);
+    float: left;
+    text-align: left;
+}

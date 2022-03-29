@@ -1,0 +1,52 @@
+.adress{
+    background-color: black;
+    height:1800px ;
+    background-size: cover;
+}
+.adress h1{
+    clear: left;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(218, 228, 201);
+    padding-top: 50px;
+    text-align: center;
+}
+#adr1 {
+    padding-top:100px;
+    margin-left: 168px;
+    color: rgb(218, 228, 201);
+    margin-right: 500px;
+    float: left;
+}
+ hr{
+    border: none;
+    background-color: rgb(14, 49, 14);
+    height: 2px;
+    width: 600px;
+}
+#f10{
+    float: left;
+    padding-top:30px;
+}
+#f11{
+    clear: left;
+    margin-left: 168px;
+    float: left;
+}
+#cont1{
+    padding-top:100px;
+    margin-left: 500px;
+    color: rgb(218, 228, 201);
+    margin-right: 300px;
+    float: left;
+}
+#waiting{
+    clear: left;
+    padding-top:110px;
+    margin-left: 168px;
+    color: rgb(218, 228, 201);
+    margin-right: 500px;
+    float: left;
+}
+#f12{
+    float: left;
+    padding-top:0px;
